@@ -56,6 +56,6 @@ Bu GitHub reposunda yalnızca **sınırlı bir kod parçası** paylaşılmışt�
 Tam kaynak koduna erişmek için geliştiriciyle iletişime geçebilirsiniz:
 
 📧 **İletişim:** [msamedcagli@gmail.com]  
-📱 **Discord: https://discord.gg/SBJF9y84
+📱 **Discord: [https://discord.gg/SBJF9y84]
 
 > Bu yazılımı kullanarak yukarıdaki tüm şartları **kabul etmiş sayılırsınız**.
